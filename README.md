@@ -25,8 +25,9 @@ Este proyecto es un API REST de inventario utilizando Node.js, Sequelize y MySQL
 
    ```bash
    npm start
-   
-##Uso
+
+
+## Uso
 - Registro de usuarios: POST /api/register
 - Login de usuarios: POST /api/login
 - CRUD de productos: POST /api/productos, GET /api/productos, PUT /api/productos/:id, DELETE /api/productos/:id
